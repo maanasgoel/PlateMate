@@ -22,4 +22,4 @@ The final model classified all 72 held-out test images correctly.
 - `DatasetScriptGenerationForESE3600FinalProject.ipynb`: dataset preparation
 - `ESE3600ImageClassifierForProject.ipynb`: model training and evaluation
 - `finalFoodFloat.tflite`: the trained model
-- `index.html`, `classifer.js`, `styles.css`: the web app
+- `index.html`, `classifer.js`, `styles.css`: the [web app](https://moshah122.github.io/PlateMate/)
